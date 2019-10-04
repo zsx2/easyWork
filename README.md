@@ -1,2 +1,2 @@
 # easyWork
-python script for windows &amp; linux quickly work 
+python script for windows & linux quickly work 
